@@ -53,6 +53,9 @@ ethical structures and decision environments shape reality.
 ## 三、关键概念（建设中）
 
 - 慈悲（结构性定义）
+Definitions for the core concepts have been completed.  
+See: Definition.md
+
 - 测量
 - 可能性空间
 
