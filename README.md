@@ -67,7 +67,7 @@ See: definition.md
 
 - [Measurement modes and timing](Measurement-Modes-and-Timing.md)
 
-- [Measurement configuration matrix (document)]Measurement_Configuration_Matrix.md)
+- [Measurement configuration matrix (document)]（Measurement-Configuration-Matrix.md)
 
 - [Measurement configuration matrix (xlsx)](Measurement_Configuration_Matrix.xlsx)
 
