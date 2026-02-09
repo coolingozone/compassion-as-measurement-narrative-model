@@ -1,6 +1,8 @@
 # 慈悲的测量框架
 Compassion as Measurement Framework
 
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
 ## 直觉说明（一个一分钟理解的例子）
 在进入框架定义之前，先用一个简单的例子说明“慈悲的测量”在现实中的含义。
 
