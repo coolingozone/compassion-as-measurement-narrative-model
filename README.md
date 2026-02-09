@@ -58,7 +58,7 @@ ethical structures and decision environments shape reality.
 
 - 慈悲（结构性定义）
 Definitions for the core concepts have been completed.  
-See: Definition.md
+See: definition.md
 
 - 测量
 - 可能性空间
