@@ -52,16 +52,8 @@ ethical structures and decision environments shape reality.
 
 
 
-## 三、关键概念（建设中）
+## 三、关键概念（建设中） Key concepts(to be developed)
 
-- 慈悲（结构性定义）
-Definitions for the core concepts have been completed.  
-See: definition.md
-
-- 测量
-- 可能性空间
-
-## 3. Key concepts (to be developed)
 
 - [Core concepts – Definitions](definition.md)
 
@@ -75,15 +67,9 @@ See: definition.md
 - [Measurement configuration guide](Measurement-Configuration-guide.md)
 
 - [Core working assumptions](Core-Working-Assumptions.md)
-### Why compassion (not adaptation)｜为什么是慈悲，而不是自适应
-
+  
 - [Why compassion (not adaptative)](Why-Compassion-Not-Adaptive.md)
 
-Explains why this framework is not an adaptive or optimisation-based
-measurement framework, but an orientation-based intervention framework.
-
-说明为什么本框架不是“自适应测量（adaptive measurement）”或优化导向框架，
-而是以判断介入取向（orientation of intervention）为核心的结构性框架。
 
 ---
 
