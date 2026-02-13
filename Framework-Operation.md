@@ -14,14 +14,15 @@ This process defines how a measurement intervention is performed.
 
 Define the possibility space (including external forces)
 
+- Define the possibility space (including external forces)
+
 - Identify dominant noise
 
-- Select measurement timing
+-Select measurement timing
 
-- Select measurement intervention
+-  Select measurement intervention
 
 - Apply the compassion constraint
-
 - Execute the intervention
 
 ________________________________________
