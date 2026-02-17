@@ -38,14 +38,14 @@ The framework is currently under active development.
 
 ---
 
-## 一、这个框架是什么
+## 一、这个是什模型么
 
 用于理解「选择」、「伦理结构」与「决策环境」
 如何共同塑造现实路径的概念框架。
 
-## 1. What is this framework
+## 1. What is this model for 
 
-A conceptual framework for understanding how choices,
+A conceptual model for understanding how choices,
 ethical structures and decision environments shape reality.
 
 ---
@@ -70,9 +70,8 @@ ethical structures and decision environments shape reality.
 
 - [Measurement configuration guide](Measurement-Configuration-guide.md)
 
-- [Core working assumptions](Core-Working-Assumptions.md)
-  
-- [Why compassion (not adaptative)](Why-Compassion-Not-Adaptive.md)
+ 
+- [Why compassion (not adaptive)](Why-Compassion-Not-Adaptive.md)
 
 -  [Framework Operation Process](Framework-Operation.md)
 ---
