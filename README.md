@@ -73,7 +73,7 @@ ethical structures and decision environments shape reality.
 - [Measurement configuration guide](Measurement-Configuration-guide.md)
 
  
-- [Why compassion (not adaptive)](Why-Compassion-Not-Adaptive.md)
+- [Why compassion (not adaptive)](Why Compassion (Not Adaptive Measurement).md)
 
 -  [Operation Process](Operation.md)
 ---
