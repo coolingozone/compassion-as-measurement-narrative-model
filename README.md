@@ -73,7 +73,7 @@ ethical structures and decision environments shape reality.
  
 - [Why compassion (not adaptive)](Why-Compassion-Not-Adaptive.md)
 
--  [Framework Operation Process](Framework-Operation.md)
+-  [Operation Process](Operation.md)
 ---
 
 ## 当前状态
