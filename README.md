@@ -1,8 +1,10 @@
 慈悲的测量 —— 叙事结构模型
 Compassion as Measurement — Narrative Model
 
+This project is a narrative decision model developed as a writing instrument to maintain internal consistency for fictional agents.
 
-This project is a narrative decision model developed to maintain internal consistency for fictional agents in long-form fiction.
+It is not intended as a scientific or universal decision framework.
+
 
 It serves as a writing instrument to guide character decision-making within constrained possibility spaces.
 Copyright (c) 2026 Teo Kok Keong (赤道小强)
