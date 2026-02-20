@@ -61,7 +61,7 @@ ethical structures and decision environments shape reality.
 ## 三、关键概念（建设中） Key concepts(to be developed)
 
 
-- [Core concepts – Definitions](definition.md)
+- [Core concepts – Definitions](Definition.md)
 - [Research Scope](Research-Scope.md)
 
 - [Measurement configuration matrix (document)](Measurement-Configuration-Matrix.md)
