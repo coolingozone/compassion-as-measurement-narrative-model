@@ -5,13 +5,13 @@
 
 ## Core distinction｜核心区分
 
-In this framework, *measurement* is an intervention that reshapes the
+In this modelk, *measurement* is an intervention that reshapes the
 possibility space.
 
 The key question is not whether the intervention improves performance,
 but what orientation guides the intervention itself.
 
-在本框架中，测量是一种会重塑可能性空间的判断介入行为。
+在本模型中，测量是一种会重塑可能性空间的判断介入行为。
 关键问题不是：
 判断是否更有效，
 而是：
