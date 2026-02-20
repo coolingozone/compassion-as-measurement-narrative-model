@@ -31,7 +31,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 慈悲，是刻意放慢这道手电筒，在噪音和情绪逼迫你赶快决定之前，为自己保留一点时间，让更多可能的路，来得及被照见。
 这就是我说的——慈悲的测量。
 
-本仓库用于公开与持续发展「慈悲的测量框架」。
+本仓库用于公开与持续发展「慈悲的测量模型」。
 该框架目前仍处于早期探索阶段，内容将逐步补充。
 
 This repository hosts an evolving conceptual framework titled
@@ -43,7 +43,7 @@ The framework is currently under active development.
 ## 一、这个是什模型么
 
 用于理解「选择」、「伦理结构」与「决策环境」
-如何共同塑造现实路径的概念框架。
+如何共同塑造现实路径的概念模型。
 
 ## 1. What is this model for 
 
